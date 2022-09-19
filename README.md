@@ -1,4 +1,7 @@
-### Hi there 👋
+## SoftWare Lover ( IOS/Android Application, Client )👋
+
+### SKILLS 
+
 
 <!--
 **PePi00/PePi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
