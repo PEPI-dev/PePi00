@@ -1,4 +1,4 @@
-# SoftWare Lover ( IOS/Android Application, Client )👋
+# SoftWare Lover ( Application, Client, Web(not yet) )👋
 
 ## SKILLS 
 
